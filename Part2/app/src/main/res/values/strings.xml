@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Part2</string>
+    <string name="dispMsg">Zipped all contacts successfully</string>
+    <string name="dispMsgFail">Failed to save all contacts</string>
+    <string name="btntext">Save All Contacts</string>
+    <string name="permMsg">The app does not have permission to perform this operation</string>
+</resources>
